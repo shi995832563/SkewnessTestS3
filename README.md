@@ -12,3 +12,5 @@ type1error.R provides the type I error results of the newly proposed test, compa
 power_largelyskewed.R provides the statistical power of the newly proposed test under six largely skewed distributions, compared with the competing methods.
 
 power_mildlyskewed.R provides the statistical power of the newly proposed test under six mildly skewed distributions, compared with the competing methods.
+
+SkewnessTestS3.R provides the skewness test function that can provide the p-value, independent of the choice of significant level.
