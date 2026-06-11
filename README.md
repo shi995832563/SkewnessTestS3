@@ -3,6 +3,8 @@ Source codes for "A new method for detecting the skewness of data from the five-
 
 simulated_meta.R provides the simulated meta-analysis to rigorously evaluate the performance and practical utility of the proposed skewness test in meta-analytic workflows.
 
+simulated_meta_different_tests.R provides the simulated meta-analysis to evaluate the performance of different skewness tests in meta-analytic workflows.
+
 realdata.R analyzes the Patient Health Questionnaire-9 dataset, explicitly demonstrating how the skewness test informs subgroup analysis and estimator selection.
 
 density.R provides density plots for six skewed distributions.
