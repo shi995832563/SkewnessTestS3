@@ -23,7 +23,7 @@ description <- describe_studies(dat.phq9_raw2)
 skew_indicator <- description$skew_test_g1$reject
 skew_indicator1 <- skew_indicator
 
-# 手动调整部分研究的偏态标记
+# 新检验与先前检验不同结果
 skew_indicator1[c(8, 51)] <- TRUE
 skew_indicator1[c(11, 23, 26)] <- FALSE
 
