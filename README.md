@@ -7,6 +7,8 @@ simulated_meta_different_tests.R provides the simulated meta-analysis to evaluat
 
 realdata.R analyzes the Patient Health Questionnaire-9 dataset, explicitly demonstrating how the skewness test informs subgroup analysis and estimator selection.
 
+ST_data.R analyzes the dataset of serum triglyceride measurements in cord blood.
+
 density.R provides density plots for six skewed distributions.
 
 type1error.R provides the type I error results of the newly proposed test, compared with the competing methods.
